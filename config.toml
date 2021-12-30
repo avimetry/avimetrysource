@@ -1,0 +1,25 @@
+[bot_tokens]
+Avimetry = "y0uRestup1d1fsmFh1tf4k3l.LMAOXD.IL1k3t034t4pp1354ndbb4nan45"
+AvimetryII = "y0uRestup1d1fsmFh1tf4k3l.LMAOXD.IL1k3t034t4pp1354ndbb4nan45"
+
+[api_tokens]
+DagpiAPI = "y13hwedklasjd83.akdjflka87asd.ASJD8JSustuPID"
+TopGG = "TOPJKASDJLKSADJUYWADhsjd76e7w.asjsadjkljwe8&S*(D&_).asjdlksdj_sy2j298s77dsdj237sdsdsad"
+GitHub = "ghp_98237823yhsjadasKSDJKS&S^Tu99(((((((("
+
+[postgresql]
+host = "urmomhost"
+port = 5432
+user = "asd"
+database = "avimetry"
+
+[webhooks]
+join_log = "https://discord.com/api/webhooks/lol/you_are_so_stupid"
+error_log = "https://discord.com/api/webhooks/lol/you_are_so_stupid"
+error_log2 = "https://discord.com/api/webhooks/lol/you_are_so_stupid"
+command_log = "https://discord.com/api/webhooks/lol/you_are_so_stupid"
+command_log2 = "https://discord.com/api/webhooks/lol/you_are_so_stupid"
+request_log = "https://discord.com/api/webhooks/lol/you_are_so_stupid"
+
+[news]
+news = "New Additions:\n+ Mute command. This command uses the \"Time Out\" feature in Discord. \n+ Unmute command. Removes timeout from a member\n\nThank you for using Avimetry! \nPlease [vote](https://top.gg/bot/756257170521063444/vote). This bot is also open source. [Github](https://github.com/avimetry/avimetry)"
